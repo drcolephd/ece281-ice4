@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Fri Mar  8 13:25:24 2024
+# Process ID: 23444
+# Current directory: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7032 C:\Users\C27Brandon.Sweitzer\code\ece281-ice4\stoplight.xpr
+# Log file: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/vivado.log
+# Journal file: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/stoplight.xpr
+INFO: [Project 1-313] Project file moved from './vivado/ece281-ice4' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/stoplight.ip_user_files', nor could it be found using path 'C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/vivado/ece281-ice4/stoplight.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:07 . Memory (MB): peak = 756.922 ; gain = 64.246
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sat Mar  9 16:24:06 2024...
