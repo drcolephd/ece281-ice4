@@ -2,16 +2,13 @@
 # Vivado v2018.2 (64-bit)
 # SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
 # IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
-# Start of session at: Sat Mar  9 16:25:58 2024
-# Process ID: 28380
+# Start of session at: Fri Mar  8 13:25:24 2024
+# Process ID: 23444
 # Current directory: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4
-# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent22604 C:\Users\C27Brandon.Sweitzer\code\ece281-ice4\stoplight.xpr
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7032 C:\Users\C27Brandon.Sweitzer\code\ece281-ice4\stoplight.xpr
 # Log file: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/vivado.log
 # Journal file: C:/Users/C27Brandon.Sweitzer/code/ece281-ice4\vivado.jou
 #-----------------------------------------------------------
 start_gui
 open_project C:/Users/C27Brandon.Sweitzer/code/ece281-ice4/stoplight.xpr
 update_compile_order -fileset sources_1
-launch_simulation
-source clock_divider_tb.tcl
-close_sim
